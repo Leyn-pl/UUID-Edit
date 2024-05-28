@@ -1,0 +1,7 @@
+name: "uuidedit"
+displayName: "UUID Edit"
+author: "_LEYN"
+description: "Lets you see, reset and edit your uuid."
+version: "1.0"
+minGameVersion: "146"
+hidden: true
